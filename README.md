@@ -27,8 +27,29 @@ This repo contains my notes about the basic stuffs of computer science. This ser
 	- https://fileinfo.com/help/binary_vs_text_files
 
 
+
+## Archive and Compression
+
+## gz vs bz vs xz vs lzma
+- ReferenceL
+  - https://www.rootusers.com/gzip-vs-bzip2-vs-xz-performance-comparison/
+
+## What is tar
+- originally stands for tape archiver based on tape drive storage
+
+
+# Cryptography
+
+## How encryption works
+
+## Types of encryption
+
+
+
+
 ## Network vs Harddisk vs Memory vs CPU Cache speed
 
 ## Networking
 
 ## TCP vs UDP
+
