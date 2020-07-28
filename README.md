@@ -1,6 +1,7 @@
 # computer-science-basic
-Quick notes on the basic of computer science.
-This repo contains my notes about the basic stuffs of computer science. This serves as quick self-reminder on computer science concepts
+This repo contains my notes about the basic concepts of computer science. There are heaps of concepts around computing and sometimes those concepts can be confusing to understand. Two concepts might look very similar to each other. So I am trying to clarify on tiny details that distinguish the concepts. 
+
+This repository is structured into multiple folders that contain a README file inside. Each folder is named with the concept to revise upon. Probably a Github Wiki is a better tool to do this but I am sticking with this first to avoid complexity of deciding which is the best.
 
 
 ## Serialization / Deserialization
@@ -44,12 +45,4 @@ This repo contains my notes about the basic stuffs of computer science. This ser
 
 ## Types of encryption
 
-
-
-
 ## Network vs Harddisk vs Memory vs CPU Cache speed
-
-## Networking
-
-## TCP vs UDP
-

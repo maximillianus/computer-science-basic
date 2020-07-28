@@ -54,3 +54,34 @@ OSI is Open System Interconnection model. It is a framework that defines the fun
     - MAC
 - Layer 1: Physical
   - Example: Cable, Radio frequency
+
+
+## TCP vs UDP
+TCP:
+- connection-oriented. establish connection between sender & receiver.
+- data is guaranteed to be delivered. Will retry if undelivered
+- data is delivered in the same order
+- slower
+- use case:
+  - SSH
+  - HTTP/S
+  - FTP
+  - SMTP
+
+UDP:
+- connection-less
+- no guaranteed delivery
+- no ordering in packet
+- faster
+- use case:
+  - VPN tunnelling
+  - gaming
+  - live broadcasts / streaming
+
+## IP Address & Subnet
+- IP Address consists of 32-bit
+- 32-bit comes from: dot separated 4 octets. 8bit.8bit.8bit.8bit
+- Example:  
+  - IP: 192.168.1.64
+  - bits: 11000000.10101000.00000001.01000000 
+- Subnet is a logical network within one single big network. In short it allows range grouping of allowed IP addresses within one single network.
