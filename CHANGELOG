@@ -1,0 +1,22 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## 2025-01-29
+### Added
+- Added installation method for certain technologies under `tech-installation-notes`
+- This is meant to merge `maximillianus/tech-how-to` repo to here for cleanliness
+
+## 2020-07-28/29
+### Added
+- Added about networking
+- Added about data-related concepts
+
+## 2019-12-31
+### Added
+- Added about encryption and cryptography
+
+## 2019-12-08
+### Added
+- Started the repository as a way to self-learn about computer science
+- Coming from Data Analyst background, I want to catch up understanding about computer science
